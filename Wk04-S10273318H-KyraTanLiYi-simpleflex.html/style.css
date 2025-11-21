@@ -28,7 +28,7 @@ body{
 }
 
 @media (max-width: 600px) {
-    .fkex-item {
+    .flex-item {
         flex: 1 45%;
     }
 }
